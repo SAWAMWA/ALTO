@@ -6,7 +6,7 @@ export class Footer extends Component {
     render() {
         return (
             <div>
-                <Card bg="success" expand="lg" >
+                <Card bg="primary" expand="lg" >
                 <Card.Body>
                     <Card.Title>Allto Construction Company ltd</Card.Title>
                     <Card.Text>
